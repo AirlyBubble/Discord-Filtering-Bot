@@ -4,7 +4,7 @@ DiscordでBotとして利用できるプログラム群です。
 * .envの Token here にDiscord Botのトークンを挿入します。
 ### filter.py
 Discordでユーザーが送信したメッセージ内の単語をブロックできます。定義更新が必要なマルウェアURLリストなどに適しています。
-* filter.py の FILTER URL HERE にフィルターのURLを挿入します。
+* プログラム内にある FILTER URL HERE にフィルターのURLを挿入します。
 ### allto.py
 DiscordでBotが参加している全サーバーに参加している全ユーザーへのタイムアウト処理を試行します。
 ### gban.py
